@@ -28,3 +28,9 @@ News Highlight is a web application meant to catch up hard workers on the curren
 Email : amiredin@yahoo.com
 Tele : 0757853395
 
+## LIcence and copyright
+
+
+MIT License
+
+Copyright (c) 2019 Amiredin
